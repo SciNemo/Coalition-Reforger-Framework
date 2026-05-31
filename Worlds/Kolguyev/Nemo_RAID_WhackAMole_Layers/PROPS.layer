@@ -1,0 +1,46 @@
+SCR_DestructibleBuildingEntity : "{269BABBF987FF2E6}Prefabs/Structures/Bulding/Ind/Ind_Coltan_Tunnel_EP1.et" {
+ coords 5081.06 688.406 6324.972
+ angles 0 -81.4 0
+}
+GenericEntity : "{852265665B92CD53}Prefabs/Props/Industrial/Mine/Mine_01_cart/Mine_01_cart_wheelbase_cargo_rusty.et" {
+ coords 5086.823 688.752 6326.945
+ angles -5.596 54.637 -90.883
+}
+$grp StaticModelEntity : "{9F9516E7AFB67010}Prefabs/Structures/Debris/DebrisPile/DebrisPile_Concrete_01_Medium.et" {
+ {
+  Flags 0 0x1
+  coords 5084.61 688.8 6321.576
+  angles 0 0 5.309
+ }
+ {
+  Flags 0 0x1
+  coords 5085.006 689.507 6325.992
+  angles 2.036 -22.498 4.904
+ }
+ {
+  Flags 0 0x1
+  coords 5085.053 691.107 6325.003
+  angles 19.146 -47.59 28.011
+ }
+ {
+  Flags 0 0x1
+  coords 5087.148 688.051 6323.136
+ }
+ {
+  Flags 0 0x1
+  coords 5087.724 688.245 6325.935
+  angles 0 19.54 0
+ }
+ {
+  Flags 0 0x1
+  coords 5085.791 688.757 6323.372
+ }
+}
+GenericEntity : "{BCAEEED372814311}Prefabs/Props/Signs/Industrial/SignIndustrial_USSR_02_warnings_underminedarea.et" {
+ coords 5085.43 690.245 6326.579
+ angles 0 98.6 0
+}
+SCR_DestructibleBuildingEntity : "{C9907482EB9D5076}Prefabs/Structures/Industrial/CoalMineShaft_01/CoalMineShaft_USSR_01_end.et" {
+ coords 5084.868 688.086 6324.359
+ angles 0 -81.4 0
+}

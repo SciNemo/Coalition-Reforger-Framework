@@ -1,0 +1,10 @@
+$grp Vehicle : "{474B7D565A4A3F68}Prefabs/Vehicles/Helicopters/UH1H/UH1H_armed_MoreAmmo.et" {
+ UH1H_armed_MoreAmmo1 {
+  coords 11093.096 35.554 1637.235
+  angles 0 -1.8 0
+ }
+ UH1H_armed_MoreAmmo2 {
+  coords 11111.137 35.687 1637.801
+  angles 0 -1.8 0
+ }
+}
